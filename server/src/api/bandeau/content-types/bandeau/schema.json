@@ -1,0 +1,32 @@
+{
+  "kind": "collectionType",
+  "collectionName": "bandeaus",
+  "info": {
+    "singularName": "bandeau",
+    "pluralName": "bandeaus",
+    "displayName": "Bandeau",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Contenu": {
+      "type": "string",
+      "required": true,
+      "maxLength": 200
+    },
+    "Debut_affichage": {
+      "type": "date",
+      "required": true
+    },
+    "Fin_affichage": {
+      "type": "date",
+      "required": true
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}

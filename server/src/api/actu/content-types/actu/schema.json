@@ -1,0 +1,50 @@
+{
+  "kind": "collectionType",
+  "collectionName": "actus",
+  "info": {
+    "singularName": "actu",
+    "pluralName": "actus",
+    "displayName": "Actu",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "date": {
+      "type": "date",
+      "required": true,
+      "default": "2024-04-03"
+    },
+    "media": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "category": {
+      "type": "enumeration",
+      "enum": [
+        "Promotions",
+        "Innovations",
+        "Massey Ferguson",
+        "Autres"
+      ],
+      "required": true
+    },
+    "content": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}

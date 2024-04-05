@@ -1,0 +1,24 @@
+.carousel .control-dots {
+    position: absolute;
+    bottom: 0;
+    margin: 20px 0;
+    width: 100%;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+  }
+  
+  .carousel .control-dots li {
+    display: inline-block;
+    width: 30px;
+    height: 10px;
+    margin: 10px;
+    text-indent: -999px;
+    cursor: pointer;
+    border-radius: 10px;
+    background: white;
+  }
+  
+  .carousel .control-dots .selected {
+    background: red;
+  }

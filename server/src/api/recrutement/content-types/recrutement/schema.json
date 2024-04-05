@@ -1,0 +1,46 @@
+{
+  "kind": "collectionType",
+  "collectionName": "recrutements",
+  "info": {
+    "singularName": "recrutement",
+    "pluralName": "recrutements",
+    "displayName": "recrutement",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "jobTitle": {
+      "type": "string"
+    },
+    "jobLocation": {
+      "type": "string"
+    },
+    "contact": {
+      "type": "string"
+    },
+    "media": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "content": {
+      "type": "richtext"
+    },
+    "contractType": {
+      "type": "enumeration",
+      "enum": [
+        "CDI",
+        "CDD",
+        "Alternance",
+        "Stage",
+        "Intérim"
+      ]
+    }
+  }
+}

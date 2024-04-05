@@ -1,0 +1,32 @@
+{
+  "slogan": "Motin c'est les meilleurs",
+  "sections": {
+    "actualites": "Notre Actualité",
+    "services": "Notre Offre",
+    "partenaires": "Nos Partenaires"
+  },
+  "homepage": {
+    "hero_title": "Concessionnaire de machines agricoles",
+    "hero_title1": "Massey Ferguson ",
+    "hero_subtitle": "Normandie, Bretagne",
+    "actualites_link": "Voir toutes nos actualités...",
+    "about_title": "Votre concession Massey Fergusson en Normandie",
+    "about_subtitle": "Nous sommes à l'écoute et au service d'une agriculture intelligente",
+    "mapkeyword_title": "Motin c'est ...",
+    "chiffres_cles": [
+      "65 collaborateurs à votre service",
+      "Une présence sur 4 départements : 50, 14, 61, 35",
+      "Près de 150 tracteurs neufs et 300-400 occasions vendus par an,",
+      "Un des premiers concessionnaires Massey Ferguson de France"
+    ]
+  },
+
+  "about": {
+    "title": "Motin ",
+    "subtitle": "Une entreprise familiale au service d'une agriculture intelligente",
+    "text": "Bienvenue chez MOTIN, votre partenaire de confiance en machinerie agricole depuis 1905. Fort d'une tradition d'excellence en Normandie et en Bretagne nous nous engageons à vous offrir des produits et service de qualité.",
+    "text1": "En tant que concessionnaire officiel Massey Ferguson, nous sommes fiers de représenter une marque emblématique dans le domaine des tracteurs. Notre catalogue s'étend également à une large gamme de matériel de fenaison, d'outils de travail du sol, et d'équipements pour l'élevage, grâce à notre partenariat avec des marques de renommée telle que Kverneland, Pottinger, SMA, Joskin, Faresin, et Bélair.",
+    "text2": "Chez MOTIN, nous nous engageons à vous fournir non seulement l'équipement, mais aussi le savoir-faire et le support nécessaires pour propulser votre exploitation agricole vers l'avenir.",
+    "text_old": "Depuis 1905, nous sommes spécialisés dans la vente et réparation de matériel agricole en Normandie et Bretagne. Nous disposons de 4 bases réparties sur le secteur, avec un effectif de près de 60 personnes. La structure de l’entreprise est familiale, et nous mettons un point d’honneur à un service SAV de qualité.Nous sommes concessionnaires Massey Ferguson pour les tracteurs. Pour le matériel de fenaison, les outils de travail du sol et les outils pour l'élevage, nous sommes distributeurs des marques Kverneland, Pottinger, SMA, Joskin, Faresin, Bélair..."
+  }
+}
